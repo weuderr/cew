@@ -1,0 +1,27 @@
+body {
+	background-color: #795548;
+}
+
+#corpo {
+	display: inline-flex;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+#link {
+	width: 100px;
+	height: 120px;
+	background-color: white;
+}
+
+#link div {
+	cursor: pointer;
+	border: solid #795548;
+	text-align: center;
+}
+
+#corpo .content {
+	padding: 10px;
+	background-color: #795548;
+}
+
